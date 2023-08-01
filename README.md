@@ -12,14 +12,14 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Cleaning Data in R & Visualizing in Tableau</b>
-  - [Cyclistic Case Study (Capstone Project)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Bellabeat Case Study](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cyclistic Case Study (Capstone Project)](https://github.com/EmmyVonSheets/CyclisticCaseStudy)
+  - [Bellabeat Case Study](https://github.com/)
 - <b>SQL</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 - <b>Certifications</b>
-  - [Google Data Analytics Certification](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Google Data Analytics Certification](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
