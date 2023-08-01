@@ -15,7 +15,7 @@
   - [Cyclistic Case Study (Capstone Project)](https://github.com/EmmyVonSheets/CyclisticCaseStudy)
   - [Bellabeat Case Study](https://github.com/)
 - <b>SQL</b>
-  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 - <b>Certifications</b>
