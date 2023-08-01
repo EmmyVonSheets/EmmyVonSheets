@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmy!<br/><a href="https://github.com/joshmadakor1">Data Analyst</a> and <a href="">Aspiring Cyber Security Professional</a></h1>
+<h1>You can call me Emmy!<br/><a href="https://github.com/joshmadakor1">Data Analyst</a> and <a href="">Aspiring Cyber Security Professional</a></h1>
 
 👋 Hello! I'm Emely Ortiz, a passionate data analyst with a keen eye for cleaning and managing large datasets. Over the past year, I've been honing my skills in R, SQL, and Python, using them to find creative solutions and draw valuable insights from complex data.
 
