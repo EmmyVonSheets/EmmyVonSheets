@@ -9,38 +9,19 @@
 💻 When I'm not diving into data or studying, you can find me playing video games and streaming on Twitch or unleashing my creativity by drawing on my iPad.
 
 🌟 Join me on my data-driven adventures as I explore new opportunities and continually expand my skills in the world of data analytics and Cyber Security.
+
+🤳 Connect with me on [LinkedIn](https://www.linkedin.com/in/emelyortiz/)! This portfolio is still in progress! Changes will happen frequently!
+
+
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Cleaning Data in R & Visualizing in Tableau</b>
   - [Cyclistic Case Study (Capstone Project)](https://github.com/EmmyVonSheets/CyclisticCaseStudy)
-  - [Bellabeat Case Study](https://github.com/)
+  - [Bellabeat Case Study (In Progress)](https://github.com/)
 - <b>SQL</b>
-  - [Image Analysis](https://github.com/)
+  - [(Project in Progress)](https://github.com/)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+  - [(Project in Process)](https://github.com/)
 - <b>Certifications</b>
-  - [Google Data Analytics Certification](https://github.com/)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/emelyortiz/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [Google Data Analytics Certification](https://coursera.org/share/113bb7f8afc867c45dda01eee52ff3fc)
+  - [Merit America Certification](https://certopus.com/c/f77a55c609fc4a1795c3903248cd3979)
